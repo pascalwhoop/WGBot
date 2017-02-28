@@ -1,0 +1,11 @@
+dist/
+.idea/
+*.rdb
+genderComputerWorker/
+log/
+node_modules/
+typings/
+**/.idea
+.DS_STORE
+
+start.sh

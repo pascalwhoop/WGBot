@@ -1,0 +1,15 @@
+{
+  "globalDependencies": {
+    "node": "registry:dt/node"
+  },
+  "dependencies": {
+    "body-parser": "registry:npm/body-parser",
+    "cors": "registry:npm/cors",
+    "cron": "registry:dt/cron#1.2.0+20170204021822",
+    "express": "registry:npm/express",
+    "kue": "registry:npm/kue#0.11.0+20160901110354",
+    "lodash": "registry:npm/lodash",
+    "mongodb": "registry:dt/mongodb",
+    "request": "registry:npm/request#2.69.0+20160428223725"
+  }
+}
