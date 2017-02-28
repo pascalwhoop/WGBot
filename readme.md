@@ -1,6 +1,20 @@
-#Processing top 100 repos for sexual bias
+#WGBot
 
-requires: redis-server, mongodb
+##Installation
+
+```
+npm -g install typescript typings
+npm install
+```
+
+##Start
+
+```             
+tsc               
+export TELE_API_KEY=<your-telegram-bot-api-key>
+node dist/main.js
+```
+
 
 ### Node + TypeScript + NodeInspector
 
